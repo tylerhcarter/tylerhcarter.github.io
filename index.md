@@ -1,5 +1,3 @@
-Software Developer  
-
 You might want to check out:
 
 - My [Code](https://github.com/tylerhcarter/).
