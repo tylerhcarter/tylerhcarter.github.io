@@ -11,7 +11,8 @@ you as well.
 
 ### Life Principles
 [Your Move with Andy Stanley](https://yourmove.is/)   
-Most of us would love to live our lives making better decisions, and having fewer regrets. On a weekly basis, Andy delivers content that points us to solid, applicable principles that can help us do exactly that. 
+Most of us would love to live our lives making better decisions, and having fewer regrets. On a weekly basis, Andy delivers content that points us to solid, applicable principles that can help us do exactly that.  
+Also [Andy Stanley Leadership Podcast](https://andystanley.com/podcast/)
 
 [Bible Project](https://bibleproject.com/podcasts/the-bible-project-podcast/)  
 An incredibly helpful look at the Bible and the themes that run throughout it. Tim and Jon do a wonderful job of dissecting complicated issues and breaking them down so anyone can understand them.
@@ -28,8 +29,7 @@ Also [John Maxwell Company Executive Leadership Podcast](https://corporatesoluti
 [At The Table with Patrick Lencioni](https://www.tablegroup.com/at-the-table/)  
 Working with people isn't always easy, and here Patrick gives regular inspiration, insight, and challenges to be a better team player, as well as build better teams. Paired with Patrick's book *Ideal Team Player*, and Working Genius, Patrick and his team give a great foundation for bringing people together to achieve great things.  
 Also [The Working Genius Podcast](https://podcasts.apple.com/us/podcast/the-working-genius-podcast-with-patrick-lencioni/id1553105854)
-
-[Andy Stanley Leadership Podcast](https://andystanley.com/podcast/)  
+ 
 [EntreLeadership](https://www.ramseysolutions.com/shows/the-entreleadership-podcast)  
 
 ### Technology & Productivity
