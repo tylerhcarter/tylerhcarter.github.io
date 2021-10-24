@@ -1,3 +1,7 @@
+layout: page
+title: "Recommendations"
+permalink: /recommendations/
+
 # Recommendations
 
 These are various things that I read, follow, or have used that have given me value. Hopefully they can be valuable to
