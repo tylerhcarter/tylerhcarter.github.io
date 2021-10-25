@@ -1,12 +1,9 @@
 ---
 layout: default
-title: "Recommendations"
-permalink: /recommendations/
+title: "Podcasts"
+permalink: /podcasts/
 ---
-These are various things that I read, follow, or have used that have given me value. Hopefully they can be valuable to
-you as well.
-
-## Podcasts
+These are the podcasts I'm currently subscribed to, which provide value to me consistently. I hope they can add value to you as well!
 
 ### Life Principles
 [Your Move with Andy Stanley](https://yourmove.is/)   
@@ -41,5 +38,3 @@ Also [The Working Genius Podcast](https://podcasts.apple.com/us/podcast/the-work
 ### Entertainment
 
 - [Taskmaster: The Podcast](https://taskmaster.tv/podcast)
-
-## Books
