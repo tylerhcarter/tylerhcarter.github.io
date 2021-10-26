@@ -5,3 +5,4 @@ You might want to check out:
 - What I'm [Reading](https://read.tylercarter.org/).
 - Questions I've [Answered](https://stackoverflow.com/users/58088/tyler-carter).
 - [Podcasts](podcasts.md) I'm Following.
+- [Channels](channels.md) I'm Watching.
