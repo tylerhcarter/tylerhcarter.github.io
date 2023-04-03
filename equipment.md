@@ -34,3 +34,19 @@ Keyboard: Corsiar K70 Mechnaical Keyboard (Cherry MX Silent)
 
 Speakers: Creative Pebble V3
 ([Link](https://www.amazon.com/dp/B08F57GSJ7))
+
+Webcam: Logitech Brio
+([Link](https://www.logitech.com/en-us/products/webcams/brio-4k-hdr-webcam.html))
+
+
+## Other
+
+Headphoes: Beats Studio Wireless
+([Link](https://www.beatsbydre.com/headphones/studio3-wireless))
+
+Earbuds: Airpods
+([Link](https://www.apple.com/airpods/))
+
+Security Keys: Yubico HSM Keys
+([Link](https://www.yubico.com/))
+
