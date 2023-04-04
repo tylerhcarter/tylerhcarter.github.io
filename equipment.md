@@ -48,3 +48,10 @@ Earbuds: Airpods
 Security Keys: Yubico HSM Keys
 ([Link](https://www.yubico.com/))
 
+
+## Software
+Editors: JetBrains IDEs - PhpStorm, WebStorm, DataGrip, Rider, etc.
+([Link](https://www.jetbrains.com/))
+
+Browser: Mozilla Firefox
+([Link](https://www.mozilla.org/en-US/firefox/new/))
