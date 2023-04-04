@@ -1,5 +1,3 @@
-# Equipment
-
 Because my work largely consists of sitting at a desk throughout the day, here is a list of the technology I use.
 
 ## Furniture
