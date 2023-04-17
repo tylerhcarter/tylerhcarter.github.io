@@ -1,0 +1,10 @@
+- Clean Code
+- The Clean Coder
+- Clean Architecture
+- Clean Agile: Back to Basics
+- Clean Craftsmanship
+- Refactoring (Martin Fowler)
+- Continuous Delivery
+- The DevOps Handbook
+- Design Patterns: Elements of Reusable Object Oriented Software
+- Pragmatic Programmer
