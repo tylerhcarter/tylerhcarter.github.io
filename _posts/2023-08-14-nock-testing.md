@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Testing with Nock"
+title:  "Better HTTP Mocking"
 ---
 
 ### Mocking is Annoying
@@ -25,4 +25,12 @@ Beyond writing the code, mocks often need to be rewritten. Mocking make tests br
 too much - like that your code uses `axios` for instance. Want to switch to `got`? `node-fetch`? Some
 other random library? You'll need to start rewriting tests.
 
-### Testing with Nock
+### Stepping beyond the client
+
+* In coding we are too concerned with details
+* We just straight to ... well I need to mock this
+* We might even jump to creating an interface for the client to decouple it
+* We could, instead, just mock it at the HTTP layer
+* This gets us out of the entire HTTP client business...
+* Insert demo of using `nock`
+* Profit?
