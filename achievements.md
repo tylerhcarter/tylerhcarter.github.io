@@ -1,5 +1,4 @@
 # Professional Achievements
-
 Below is a list of the various professional achievements I've worked towards in my past jobs.
 
 
@@ -90,5 +89,10 @@ Languages: PHP, Typescript, Javascript
 * WordPress
 
 ### Projects
+* Responsible for the development of consumer-facing eCommerce applications and integration with third-party CRM and conversion tracking software. 
 
 ### Responsibilities
+* Oversaw team agile processes including gathering project requirements, creating technical specifications, assigning tasks, organizing daily scrums and regular sprint planning.
+* Managed infrastructure to Amazon Web Services and deployed servers, application logging, load balancers, and CDN distribution. Performed regular maintenance on Linux-based servers.
+* Designed team processes for feature integration, user experience, and regression testing. 
+* Championed and implemented CI/CD pipeline through Jenkins.
