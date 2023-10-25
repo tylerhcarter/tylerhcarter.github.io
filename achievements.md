@@ -23,15 +23,17 @@ Languages: Typescript, Javascript
 * Championed developer-portal for increased visibility of components, APIs, etc, across entire department.
 * Regularly gave technical presentations to department to explain concepts, demonstrate proof-of-concepts, and inspire other developers.
 * Championed test-driven development across team and department, implementing new tools and prompting discussions around methodologies to promote better automated testing.
+* Third-party integrations with medical industry-leading tools Epic Systems, MyChart, Clockwise.
 
 ### Responsibilities
 * Responsible for technical design and implementation of customer-facing web applications.
+* Led design and development of data pipelines utilizing Snowflake, DBT, AWS Lambda/SQS/SNS.
 
 ## Freelance Development
 Languages: PHP, Typescript, Javascript
 
 ### General Skills
-* AWS DynamoDB, ECS, SES
+* AWS Cognito, DynamoDB, ECS, SES
 * AWS SDK / CDK
 * CI/CD: Github Actions
 * Frontend: React, VueJS, Tailwind CSS
@@ -40,6 +42,9 @@ Languages: PHP, Typescript, Javascript
 
 ### Technical Projects
 * Architected DynamoDB Single-Table design for document-focused web application.
+* Architected and led team to develop Laravel application to manage incidents by federal agencies. 
+* Integrated applications with AWS Cognito.
+* Developed complete application stack managed through AWS CDK, including ECS, DynamoDB, Secrets Manager, deployed through Github Actions.
 
 ## FortuneBuilders
 Languages: PHP, Typescript, Javascript
