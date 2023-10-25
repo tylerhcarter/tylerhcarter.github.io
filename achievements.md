@@ -29,6 +29,10 @@ Languages: Typescript, Javascript
 * Responsible for technical design and implementation of customer-facing web applications.
 * Led design and development of data pipelines utilizing Snowflake, DBT, AWS Lambda/SQS/SNS.
 
+### Techniques
+* Utilized AWS Signature V4 Request Signing to authenticate requests to API Gateway/Lambda URL via IAM Policy.
+* Integrated Jenkins with Jira to track releases as they're deployed.
+
 ## Freelance Development
 Languages: PHP, Typescript, Javascript
 
@@ -45,6 +49,14 @@ Languages: PHP, Typescript, Javascript
 * Architected and led team to develop Laravel application to manage incidents by federal agencies. 
 * Integrated applications with AWS Cognito.
 * Developed complete application stack managed through AWS CDK, including ECS, DynamoDB, Secrets Manager, deployed through Github Actions.
+
+### Responsibilities
+* Solutions architect for several client projects, working to understand requirements and develop cost effective solutions.
+* Onboarded and led team of contractors to work to complete projects on deadline and provide ongoing maintenance and improvements.
+
+### Techniques
+* Utilized AWS S3 URL Signing to allow clients to securely upload directly to S3 instead of proxying through server.
+* Architected migration from SQL to NoSQL database.
 
 ## FortuneBuilders
 Languages: PHP, Typescript, Javascript
