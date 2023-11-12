@@ -7,3 +7,4 @@
 * Pros/Cons of a DynamoDB Database
 * My Experience: Github Copilot
 * My Experience: Setting Up Backstage
+* My Experience: NextCloud/Gitea/Hosting My Own Cloud
