@@ -20,11 +20,14 @@ A simple guide to who I am, and the best ways to work with me.
 
 ### How do I think?
 
+
+
 ### What are the best ways to communicate with me?
 
-For short, simple information - email is best. If there are no complicated ideas or need for creativity and problem solving, I prefer asychronous communication through email.   
-
-If there needs to be a discussion, or we're exploring ideas that need my feedback, I'd love to step on a video call.
+* For information sharing that does not require an immediate response, I prefer email. 
+* If you need a response in a timely manner (~1 hour), use Teams/Slack/etc.
+* If its about code, open a pull request, even if its not finished.
+* If there needs to be a discussion, or we're exploring ideas that need my feedback, I'd love to step on a video call.
 
 ### What is the best way to give me information? For example, give me a summary and let me ask questions, or build up the complete picture?
 
