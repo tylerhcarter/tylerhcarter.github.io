@@ -27,6 +27,6 @@ If its an emergency that needs my response, please use a phone call or text. For
 
 ### Do I have certain times of the day when I’m more reachable or prefer to be reached?
 
-My best times for conversations, meetings, etc, are in the morning. You can usually reach out to me asychronously before 9 AM, and for calls and meetings after. 
+My best times for conversations, meetings, etc, are in the morning. You can usually reach out to me asychronously before 9 AM, and for calls and meetings after. I reserve afternoons for focus and problem solving. 
 
-I reserve afternoons for focus and problem solving. Communication after 5 PM is usually 50/50 for responses, but I'll be sure get back to you in the morning (unless its an emergency!).
+After 5 PM, I turn off my work laptop and most work communication (messaging, email) is no longer visible on my phone. If you need a response, phone or text. 
