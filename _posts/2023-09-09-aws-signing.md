@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "How AWS Verify Your Identity"
+title:  "How to Verify Your Identity in AWS"
 ---
 
 If you're an AWS developer, you likely make many privileged requests to AWS using 

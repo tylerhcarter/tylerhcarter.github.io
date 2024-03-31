@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "Tests & Documentation"
+title:  "The Importance of Testing & Documentation"
 ---
 
 # Tests & Documentation
 
-Software Development is more than just a job, its a craft. Like a fine woodworker, 
-a skilled leatherworker, or a seasoned chef, the difference is often not in getting 
+Software Development is more than just a job, it is a craft. Like a fine woodworker, 
+a skilled leather worker, or a seasoned chef, the difference is often not in getting 
 the task done - but how the work stands the test of time. 
 
 ## What are the extras?
@@ -16,10 +16,10 @@ the task done - but how the work stands the test of time.
 aware of how to use them.
 
 ## When to do it?
-Lots of devleopers, teams, etc. will agree that these need to get done. But, 
-realistically, they can't get done en-masse. Automated testingcan't be done as a 
+Lots of developers, teams, etc. will agree that these need to get done. But, 
+realistically, they can't get done en-masse. Automated testing can't be done as a 
 final phase to a project, it just won't get done. The same goes for documentation. 
-If its going to get done, it needs to be baked into every and every task.
+If it is going to get done, it needs to be baked into every and every task.
 
 Here's when it should get done:
 
@@ -28,7 +28,7 @@ Whenever a feature request or enhancement is completed:
 
 * At least one test should be added to test the added functionality.
 * Ideally, one test should be added for each acceptance criteria. But, always aim 
-for consistency over exhaustivity.
+for consistency over being exhaustive.
 * Some form of documentation should be added regarding the feature. This could be 
 aimply how to access the feature, options involved, etc.
 

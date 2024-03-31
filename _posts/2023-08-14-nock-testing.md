@@ -13,7 +13,7 @@ with the tested code by expecting inputs and defining outputs.
 # Test that mocks an input/out
 ```
 
-Mocking gets harder when you have libraries with more complex inputs or outputs. A great exmaple 
+Mocking gets harder when you have libraries with more complex inputs or outputs. A great example 
 of this is HTTP requests. Mocking `axios` such that you can check what URL was called and give a JSON
 output is no small feat.
 
