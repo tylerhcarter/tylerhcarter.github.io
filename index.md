@@ -1,10 +1,9 @@
-You might want to check out:
-
-- My [Code](https://github.com/tylerhcarter/).
-- My [Resume](https://www.linkedin.com/in/tylerhcarter/).
-- Questions I've [Answered](https://stackoverflow.com/users/58088/tyler-carter).
-- [Podcasts](podcasts.md) I'm Following.
-- [Channels](channels.md) I'm Watching.
-- [Equipment](equipment.md) I'm using.
-
-You can also shoot me an [email](mailto:tyler@tylercarter.org).
+---
+#
+# By default, content added below the "---" mark will appear in the home page
+# between the top bar and the list of recent posts.
+# To change the home page layout, edit the _layouts/home.html file.
+# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+#
+layout: home
+---
