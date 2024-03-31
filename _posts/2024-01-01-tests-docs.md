@@ -3,8 +3,6 @@ layout: post
 title:  "The Importance of Testing & Documentation"
 ---
 
-# Tests & Documentation
-
 Software Development is more than just a job, it is a craft. Like a fine woodworker, 
 a skilled leather worker, or a seasoned chef, the difference is often not in getting 
 the task done - but how the work stands the test of time. 
