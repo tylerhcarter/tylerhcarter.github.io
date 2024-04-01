@@ -31,6 +31,7 @@ header_pages:
 
 # Set to `true` to show excerpts on the homepage.
 show_excerpts: true
+paginate: true
 
 # Minima specific settings, which are only available from Minima 3.0 onward.
 minima:
@@ -42,7 +43,7 @@ minima:
   # solarized-light	   Light variant of solarized color scheme.
   # solarized-dark	   Dark variant of solarized color scheme.
   # solarized	         Adaptive skin for solarized color scheme skins.
-  skin: classic
+  skin: solarized-light
 
   # Minima date format.
   # The default value is "%b %d, %Y" (e.g. Nov 14, 2023)
