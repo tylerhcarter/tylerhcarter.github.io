@@ -4,11 +4,11 @@ title: About Me
 permalink: /about/
 ---
 
-- My [Code](https://github.com/tylerhcarter/).
-- My [Resume](https://www.linkedin.com/in/tylerhcarter/).
-- Questions I've [Answered](https://stackoverflow.com/users/58088/tyler-carter).
-- [Podcasts](podcasts.md) I'm Following.
-- [Channels](channels.md) I'm Watching.
-- [Equipment](equipment.md) I'm using.
+My name is Tyler Carter, and I am interested in the professional craft of software development. 
 
-You can also shoot me an [email](mailto:tyler@tylercarter.org).
+- My [code](https://github.com/tylerhcarter/).
+- My [resume](https://www.linkedin.com/in/tylerhcarter/).
+- Questions I've [answered](https://stackoverflow.com/users/58088/tyler-carter).
+- [Podcasts](podcasts.md) I'm following.
+- [Channels](channels.md) I'm watching.
+- [Equipment](equipment.md) I'm using.
