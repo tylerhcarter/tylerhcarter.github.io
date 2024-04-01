@@ -3,8 +3,6 @@ layout: post
 title:  "Better HTTP Mocking"
 ---
 
-### Mocking is Annoying
-
 Testing can be annoying, and nothing makes testing more annoying than mocking. Mocking tends 
 to be an arduous task where you try to replicate the behavior of another object interacting
 with the tested code by expecting inputs and defining outputs. 
