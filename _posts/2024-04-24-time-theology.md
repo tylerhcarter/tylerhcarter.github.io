@@ -3,11 +3,11 @@ layout: post
 title:  "Practical Theology of Time Management"
 ---
 
-## Managing Our Time as an Act of Worship
-
-> So then, be careful how you walk, not as unwise people but as wise, 
+> So then, be careful how you walk, not as unwise people but as wise,
 > making the most of your time, because the days are evil.
 > Ephesians 5:15-16 [^1]
+
+## Managing Our Time as an Act of Worship
 
 > Teach us to number our days, that we may gain a heart of wisdom.  
 > Psalm 90:12 [^2]
