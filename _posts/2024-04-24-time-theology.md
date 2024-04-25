@@ -4,7 +4,7 @@ title:  "Practical Theology of Time Management"
 ---
 
 > So then, be careful how you walk, not as unwise people but as wise,
-> making the most of your time, because the days are evil.
+> making the most of your time, because the days are evil.  
 > Ephesians 5:15-16 [^1]
 
 ## Managing Our Time as an Act of Worship
@@ -14,9 +14,9 @@ title:  "Practical Theology of Time Management"
 
 * Pauls says the "days are evil". Our time, by default, is spent sinfully - selfishly toiling for our own benefit.
 * But Paul also commands us to "\[make\] the most of your time" which literally translates to "redeeming your time" or "buying back your time" [^3]
-* We redeem our time by using it to give God glory. For instance in Deuteronomy 6, God instructs His people on how to spend their time - remembering Him, teaching about Him to our children, doing good in His sight, etc.
+* We redeem our time by using it to give God glory. For instance in Deuteronomy 6, God instructs His people on how to spend their time - remembering Him, teaching about Him to their children, doing good in His sight, etc.
 * Moses cries out in the Psalms for wisdom by being taught to "number our days". We were meant to make the most of the time we have here on Earth.
-* But we are not to use our time to make ourselves rich and famous. Instead, we are called to our time to do good works that bring God glory. [^3]
+* But we are not to use our time to make ourselves rich and famous. Instead, we are called to use our time to do good works that bring God glory. [^3]
 
 **Where do you find yourself with "unredeemed" time?**
 
