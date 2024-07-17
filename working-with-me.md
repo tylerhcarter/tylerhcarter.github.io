@@ -11,7 +11,7 @@ My ideal is being on a team that is filled with people that are trying new thing
 ### What are the best ways to communicate with me?
 
 * For items requiring a thoughtful response, I prefer email. 
-* If its about code, open a pull request and mention me with a question or comment, even if its not finished.
+* If its about code, open a pull request and mention me with a question or comment, even if its not finished. 
 * If there needs to be a discussion, or we're exploring ideas that need my feedback, I'd love to step on a call.
 * For everything else, there's teams/slack. 
 
