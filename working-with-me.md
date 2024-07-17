@@ -1,5 +1,3 @@
-# Working With Me
-
 A simple guide to who I am, and the best ways to work with me.
 
 ### What’s important to me? What is my ideal? What do I see as success?
