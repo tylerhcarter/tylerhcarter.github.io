@@ -1,10 +1,8 @@
 A simple guide to who I am, and the best ways to work with me.
 
-### What’s important to me? What is my ideal? What do I see as success?
+### What motivates me?
 
-I believe in doing everyday tasks with the bigger picture in mind. Our goal is never to build a product, complete a task, or implement a feature. It is always to be a better team than we were the day before. Because of this, I believe in trying new technologies and techniques, along with constantly going back to the basics.
-
-My ideal is being on a team that is filled with people that are trying new things and care about what they do.
+I believe in doing everyday tasks with the goal of always getting better. I enjoy trying new technologies and techniques, along with constantly going back to the basics. My ideal is being on a team that is filled with people that are trying new things and care about what they do.
 
 ### What are the best ways to communicate with me?
 
