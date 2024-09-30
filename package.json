@@ -1,4 +1,7 @@
 {
+  "scripts": {
+    "lint": "node_modules/.bin/prettier _posts"
+  },
   "devDependencies": {
     "prettier": "3.3.3"
   }
