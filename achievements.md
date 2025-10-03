@@ -18,15 +18,13 @@ Languages: Typescript, Javascript
 * Monitoring: AWS CloudWatch, Dynatrace
 
 ### Technical Projects
-* Created serverless, CDK-based, RemixJS template for use across development teams.
-* Championed developer-portal for increased visibility of components, APIs, etc, across entire department.
-* Regularly gave technical presentations to department to explain concepts, demonstrate proof-of-concepts, and inspire other developers.
+* Led design, and development for API backend service for mobile app, receiving ~1m requests/day with > 99.5% success rate.
+* Championed, developer-portal for increased visibility of components, APIs, etc, across entire department.
+* Implemented applications using server-less, infrastructure-as-code standards to reduce cost and minimize development overhead..
 * Championed test-driven development across team and department, implementing new tools and prompting discussions around methodologies to promote better automated testing.
-* Third-party integrations with medical industry-leading tools Epic Systems, MyChart, Clockwise.
-
-### Responsibilities
-* Responsible for technical design and implementation of customer-facing web applications.
-* Led design and development of data pipelines utilizing Snowflake, DBT, AWS Lambda/SQS/SNS.
+* Implemented third-party integrations with medical industry-leading tools Epic Systems, MyChart, Clockwise.
+* Regularly gave technical presentations to department to explain concepts, demonstrate proof-of-concepts, and inspire other developers.
+* Led development of data pipelines utilizing Snowflake, DBT, AWS Lambda/SQS/SNS.
 
 ### Techniques
 * Utilized AWS Signature V4 Request Signing to authenticate requests to API Gateway/Lambda URL via IAM Policy.
