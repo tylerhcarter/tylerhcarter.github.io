@@ -1,4 +1,6 @@
-# Home
+---
+title: Home
+---
 
 ## Reading 
 - [web.dev](https://web.dev/blog)
