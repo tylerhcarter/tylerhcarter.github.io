@@ -3,12 +3,14 @@ title: Home
 ---
 
 ## Reading 
-- [web.dev](https://web.dev/blog)
+- [Increment by Stripe](https://increment.com)
+- [Pragmatic Engineer](https://newsletter.pragmaticengineer.com)
+- [Lead Dev](https://leaddev.com)
+- [Charity Major's Blog](https://charity.wtf)
 - [Julia Evans](https://jvns.ca)
-- [Rachel by the Bay](https://rachelbythebay.com/w/)
 - [All Things Distributed](https://www.allthingsdistributed.com)
-- [Rands in Repose](https://randsinrepose.com)
-- [Zed.dev Blog](https://zed.dev/blog)
-- [Github Blog](https://github.blog)
 - [Log Rocket Blog](https://blog.logrocket.com)
 - [Netflix Tech Blog](https://netflixtechblog.com)
+- [Zed.dev Blog](https://zed.dev/blog)
+- [Github Blog](https://github.blog)
+- [Spotfiy Engineering](https://engineering.atspotify.com)
