@@ -20,7 +20,7 @@ Languages: Typescript, Javascript
 ### Technical Projects
 * Led design, and development for API backend service for mobile app, receiving ~1m requests/day with > 99.5% success rate.
 * Championed, developer-portal for increased visibility of components, APIs, etc, across entire department.
-* Implemented applications using server-less, infrastructure-as-code standards to reduce cost and minimize development overhead..
+* Implemented applications using server-less, infrastructure-as-code standards to reduce cost and minimize development overhead.
 * Championed test-driven development across team and department, implementing new tools and prompting discussions around methodologies to promote better automated testing.
 * Implemented third-party integrations with medical industry-leading tools Epic Systems, MyChart, Clockwise.
 * Regularly gave technical presentations to department to explain concepts, demonstrate proof-of-concepts, and inspire other developers.
