@@ -16,6 +16,6 @@ title: Home
 - [Spotfiy Engineering](https://engineering.atspotify.com)
 
 ## Fun
-- [Raddle](raddle.quest)
+- [Raddle](https://raddle.quest)
 - [Wordle](https://www.nytimes.com/games/wordle/index.html)
 - [Connections](https://www.nytimes.com/games/connections)
