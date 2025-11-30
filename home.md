@@ -14,3 +14,8 @@ title: Home
 - [Zed.dev Blog](https://zed.dev/blog)
 - [Github Blog](https://github.blog)
 - [Spotfiy Engineering](https://engineering.atspotify.com)
+
+## Fun
+- [Raddle](raddle.quest)
+- [Wordle](https://www.nytimes.com/games/wordle/index.html)
+- [Connections](https://www.nytimes.com/games/connections)
