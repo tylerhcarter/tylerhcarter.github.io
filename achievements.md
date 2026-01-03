@@ -11,8 +11,6 @@ Below is a list of the various professional achievements I've worked towards in 
 
 ## [{{ achievement.title }}]({{ achievement.url }})
 
-**Languages:** {{ achievement.languages }}
-
 {{ achievement.summary }}
 
 [Read more →]({{ achievement.url }})
