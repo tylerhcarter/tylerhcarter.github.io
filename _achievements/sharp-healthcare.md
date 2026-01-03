@@ -4,6 +4,7 @@ title: Sharp Healthcare
 company: Sharp Healthcare
 languages: Typescript, Javascript
 order: 1
+summary: Led development of high-scale healthcare APIs and data pipelines, championed developer experience initiatives, and promoted test-driven development practices across the department.
 ---
 
 ## General Skills

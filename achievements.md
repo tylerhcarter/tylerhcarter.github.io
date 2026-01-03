@@ -13,7 +13,9 @@ Below is a list of the various professional achievements I've worked towards in 
 
 **Languages:** {{ achievement.languages }}
 
-{{ achievement.content }}
+{{ achievement.summary }}
+
+[Read more →]({{ achievement.url }})
 
 ---
 {% endfor %}

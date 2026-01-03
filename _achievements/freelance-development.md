@@ -4,6 +4,7 @@ title: Freelance Development
 company: Freelance Development
 languages: PHP, Typescript, Javascript
 order: 2
+summary: Architected cloud-native applications for multiple clients, specializing in NoSQL database design, AWS infrastructure, and leading contractor teams to deliver projects on deadline.
 ---
 
 ## General Skills

@@ -4,6 +4,7 @@ title: Launchify
 company: Launchify
 languages: Angular, WordPress
 order: 4
+summary: Developed consumer-facing eCommerce applications with third-party integrations, managed AWS infrastructure, and championed CI/CD pipeline implementation while overseeing agile team processes.
 ---
 
 ## General Skills

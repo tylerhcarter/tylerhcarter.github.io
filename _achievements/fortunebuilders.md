@@ -4,6 +4,7 @@ title: FortuneBuilders
 company: FortuneBuilders
 languages: PHP, Typescript, Javascript
 order: 3
+summary: Served as Team Lead managing customer-facing applications, implemented CI/CD pipelines and microservice architecture, and mentored development teams while interfacing with executive stakeholders.
 ---
 
 ## General Skills
