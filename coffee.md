@@ -40,6 +40,6 @@ Dedicated to Camille. Who needs her coffee.
 
 {% assign items = site.data.roasters | where: "Category", cat -%}
 {% for r in items -%}
-- [{{ r.Name }}](https://{{ r.Website }}){% if r.Notes %} — {{ r.Notes }}{% endif %}
+- [{{ r.Name }}](https://{{ r.Website }})
 {% endfor %}
 {% endfor %}
