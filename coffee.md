@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Coffee"
+permalink: /coffee/
+---
 # Guide to Coffee
 
 Dedicated to Camille. Who needs her coffee.
@@ -28,3 +33,10 @@ Dedicated to Camille. Who needs her coffee.
 5. After 2 seconds, place the tip under the milk, so it swirls
 6. Turn off the wand when the side of the container is too hot to touch.
 7. Swirl the container until most of the big bubbles are gone.
+
+
+## Roasters
+
+{% for r in site.data.roasters -%}
+- {% if r.Website %}[{{ r.Roaster }}](https://{{ r.Website }}){% else %}{{ r.Roaster }}{% endif %}
+{% endfor %}
