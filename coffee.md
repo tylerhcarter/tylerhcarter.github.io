@@ -34,9 +34,12 @@ Dedicated to Camille. Who needs her coffee.
 6. Turn off the wand when the side of the container is too hot to touch.
 7. Swirl the container until most of the big bubbles are gone.
 
+{% assign categories = "Roasters,Cafés,Gear" | split: "," %}
+{% for cat in categories %}
+## {{ cat }}
 
-## Roasters
-
-{% for r in site.data.roasters -%}
-- {% if r.Website %}[{{ r.Roaster }}](https://{{ r.Website }}){% else %}{{ r.Roaster }}{% endif %}
+{% assign items = site.data.roasters | where: "Category", cat -%}
+{% for r in items -%}
+- [{{ r.Name }}](https://{{ r.Website }}){% if r.Notes %} — {{ r.Notes }}{% endif %}
+{% endfor %}
 {% endfor %}
